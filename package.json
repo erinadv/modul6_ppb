@@ -1,5 +1,8 @@
 {
   "name": "modul6-pwa2-kel6",
+  "description": "Praktikum MDP PWA 2",
+  "author": "Asisten MDP PWA ",
+  "license": "UNLICENSED",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
